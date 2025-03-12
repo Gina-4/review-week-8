@@ -9,7 +9,7 @@
     console.log(string.length);
 
 4.  function lastLetter(string) {
-    return string [9];
+    return string [5];
     }
     console.log(lastLetter(string));
 5.  function greaterNum(num1, num2) {
