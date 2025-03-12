@@ -20,13 +20,14 @@
     }
     }
     console.log(greaterNum(26, 15));
-6.  let fruit1 = {
-    name: "banana",
+6.  function compareString(string1, string2) {
+    if (string1 == string2) {
+        return true;
+    } else {
+        return false;
     }
-    let fruit2 = {
-    name: "banana"
-    }
-    console.log(fruit1.name == fruit2.name); 
+    console.log(compareString("example", "example1"));
+}
     7. true 
     8. true 
     9. 8 
