@@ -26,12 +26,11 @@
     let fruit2 = {
     name: "banana"
     }
-    console.log(fruit1.name == fruit2.name);
-    7. true
-    8. true
-    9. 8
-    10. [7, 2, 3, 7]
-    11. 2, 3
-    12. name: Eleanor!
+    console.log(fruit1.name == fruit2.name); 
+    7. true 
+    8. true 
+    9. 8 
+    10. [7, 2, 3, 7] 
+    11. 2, 3 
+    12. name: Eleanor! 
     13. True
- 
